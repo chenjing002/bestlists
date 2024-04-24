@@ -7,8 +7,15 @@
     <generator>Hugo 0.125.0</generator>
     <language>en</language>
     <copyright>Alex Carter</copyright>
-    <lastBuildDate>Wed, 24 Apr 2024 10:49:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:11:44 +0800</lastBuildDate>
     <atom:link href="https://bestlists.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Digest #03: Michael Mauboussin on Valuation Multiples</title>
+      <link>https://bestlists.top/Daily-Digest-03/</link>
+      <pubDate>Wed, 24 Apr 2024 15:11:44 +0800</pubDate>
+      <guid>https://bestlists.top/Daily-Digest-03/</guid>
+      <description>The article from Consilient Observer by Michael J. Mauboussin and Dan Callahan, published on April 23, 2024.&#xA;It focuses on the effectiveness and limitations of valuation multiples like P/E (price-earnings) and EV/EBITDA (enterprise value to earnings before interest, taxes, depreciation, and amortization) in financial analysis.&#xA;It highlights a common practice among analysts of using valuation multiples for pricing companies rather than delving into a detailed valuation based on the discounted cash flow (DCF) model,</description>
+    </item>
     <item>
       <title>Daily Digest #01: Modeling life, underatanding power and Gautam Baid talk</title>
       <link>https://bestlists.top/Daily-Digest-01/</link>
@@ -28,14 +35,14 @@
       <link>https://bestlists.top/about/</link>
       <pubDate>Thu, 28 Dec 2023 19:27:08 +0800</pubDate>
       <guid>https://bestlists.top/about/</guid>
-      <description>Hi! I&amp;rsquo;m Alex Carter.&#xA;I&amp;rsquo;m the curator of BestLists.top dedicated to collecting high-quality Twitter/X accounts, blogs, and websites.&#xA;I write on Medium.&#xA;If you come across any exceptional online resources, feel free to drop me a line via email at iamalexcarter@proton.me.&#xA;Let&amp;rsquo;s connect and explore the digital landscape together!</description>
+      <description>Hi! I&amp;rsquo;m Alex Carter.&#xA;I&amp;rsquo;m the curator of BestLists.top dedicated to collecting high-quality Twitter/X accounts, blogs, podcasts and online resources.&#xA;I write on Medium.&#xA;If you come across any exceptional online resources, feel free to drop me a line via email at iamalexcarter@proton.me.&#xA;Let&amp;rsquo;s connect and explore the digital landscape together!</description>
     </item>
     <item>
       <title>My Writings</title>
       <link>https://bestlists.top/writings/</link>
       <pubDate>Thu, 28 Dec 2023 19:27:08 +0800</pubDate>
       <guid>https://bestlists.top/writings/</guid>
-      <description>Today&amp;rsquo;s Essential Reads Daily Digest #01: Modeling life, underatanding power and Gautam Baid&amp;rsquo;s talk Daily Digest #02: The minimalist entrepreneur Course, RBS and VIC </description>
+      <description>Today&amp;rsquo;s Essential Reads Daily Digest #01: Modeling life, underatanding power and Gautam Baid&amp;rsquo;s talk Daily Digest #02: The minimalist entrepreneur Course, RBS and VIC Daily Digest #03: Michael Mauboussin on Valuation Multiples </description>
     </item>
   </channel>
 </rss>
