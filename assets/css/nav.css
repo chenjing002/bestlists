@@ -35,7 +35,7 @@ a:hover,a:focus{color:#fadf65;text-decoration:none}
 .sidebar-menu .logo-env{padding:19px 30px;border-bottom:0.07px solid #f0f0f0;}
 .sidebar-menu .logo-env .logo{float:left}
 .sidebar-menu .logo-env .logo .logo-collapsed{display:none}
-.sidebar-menu .main-menu{padding:0 30px;margin-top:20px;margin-bottom:20px;list-style:none}
+.sidebar-menu .main-menu{padding:0 10px;margin-top:20px;margin-bottom:20px;list-style:none}
 .navbar.horizontal-menu .navbar-inner>.nav.navbar-mobile{display:none}
 .navbar .navbar-content{position:absolute;background:#fff;width:100%;box-shadow:0 5px 20px rgba(0,0,0,.05);padding-bottom:1px}
 @media screen and (max-width:767px){.sidebar-menu .main-menu{margin-top:10px;margin-bottom:10px}
